@@ -1,4 +1,4 @@
-#calc
+
 import math
 
 def calculate_investment(amount, rate, years, interest_type):
