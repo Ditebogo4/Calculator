@@ -1,5 +1,5 @@
 #finance calculator 
-#code
+#code_finance
 import math
 
 def calculate_investment(amount, rate, years, interest_type):
